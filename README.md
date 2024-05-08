@@ -79,7 +79,7 @@ Package Name        |
 
 ## Created & Maintained By
 
-[SinaSys](https://github.com/SinaSys) 
+(https://github.com/mushfiq2012) 
 
 
 ## Contributors
