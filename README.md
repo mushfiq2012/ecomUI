@@ -10,7 +10,7 @@
 
 
 
-E-Commerce app is a design implementation of [E-commerce App](https://dribbble.com/shots/15550702-E-commerce-Mobile-App) designed by [Mushfiq](https://github.com/mushfiq2012)
+E-Commerce app is a design implementation of E-commerce App designed by [Mushfiq](https://github.com/mushfiq2012)
 
 
 
