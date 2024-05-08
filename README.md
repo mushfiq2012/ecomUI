@@ -78,7 +78,7 @@ Package Name        |
 
 ## Created & Maintained By
 
-(https://github.com/mushfiq2012) 
+https://github.com/mushfiq2012
 
 
 ## Contributors
