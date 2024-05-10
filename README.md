@@ -18,7 +18,7 @@ E-Commerce app is a design implementation of E-commerce App designed by [Mushfiq
 
    Home screen             |  Product Detail Screen    |  Cart Screen
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/SinaSys/mushfiq2012/ecomUI/screenshots/home_screen.png?raw=true)|![](https://github.com/SinaSys/flutter_ecommerce_app/blob/master/screenshots/detail_screen.png?raw=true)|![](https://github.com/SinaSys/flutter_ecommerce_app/blob/master/screenshots/cart_screen.png?raw=true)
+![](https://github.com/mushfiq2012/ecomUI/screenshots/home_screen.png?raw=true)|![](https://github.com/SinaSys/flutter_ecommerce_app/blob/master/screenshots/detail_screen.png?raw=true)|![](https://github.com/SinaSys/flutter_ecommerce_app/blob/master/screenshots/cart_screen.png?raw=true)
 
 <br/>
 
